@@ -1,0 +1,14 @@
+form{
+	position: relative;
+	text-align: center;
+	border-radius: 20px;
+	margin-top: 30px;
+	width: 500px;
+	left: 400px;
+	padding: 10px;
+	box-shadow: 0 8px 8px 0 rgba(0,0,0,0.2),0 6px 6px 0 rgba(0,0,0,0.19),5px 0 5px 0 rgba(0, 0, 0, 0.2), 0 0 3px 3px rgba(0, 0, 2, 0);
+}
+.form:hover{
+	color: white;
+	background: linear-gradient(180deg,#448AFF,#002a40);
+}
